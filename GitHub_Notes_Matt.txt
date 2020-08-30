@@ -1,0 +1,14 @@
+Git/GitHub
+
+SSH protocol
+    • a method for secure remote login
+Repository
+    • the folders of projects in version control
+Fork
+    • a copy of a repository
+Pull request
+    • the process you use to request someone to review and approve your changes to become finalized
+Working directory
+    • a local directory on your file system including files & sub-directories that is associated with a git repository
+
+
